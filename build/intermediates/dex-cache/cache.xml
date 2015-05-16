@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\AndroidStudio_1.0WS\事件分发处理ViewPagerListView\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="G:\AndroidStudio_1.0WS\事件分发处理ViewPagerListView\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-cafecce595c29631364a927086db8ff633a04bdb.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio_1.0WS\事件分发处理ViewPagerListView\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="G:\AndroidStudio_1.0WS\事件分发处理ViewPagerListView\app\build\intermediates\pre-dexed\debug\classes-6e69b0fc8e7558951849748189d0417730efcfb7.jar" />
+    </item>
+    <item
+        jar="D:\Development_Software\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="G:\AndroidStudio_1.0WS\事件分发处理ViewPagerListView\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1c946f33c7c7d7d8acd8f781f51571c9d85de3f3.jar" />
+    </item>
+
+</items>
